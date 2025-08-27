@@ -1,6 +1,7 @@
-Name: Vishwa Patel
+I'm Vishwa Patel, a aspiring Cloud/Devops Engineer.
 
 College: Current undergraduate at Queens College graduating in 2028 (Bachelor's of Computer Science BS)
+
 
 Contact information:
 -vishwapat00@gmail.com
